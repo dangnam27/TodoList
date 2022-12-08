@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "gh-pages": "^2.0.1",
     "immutable": "^4.0.0-rc.12",
     "node-sass": "^8.0.0",
